@@ -1,14 +1,4 @@
-# SY01-SY02-LWB-GW
-
-## Intro
-
-这是关于 UTC 概率(SY01) 与 统计(SY02) 课程 的 联合笔记. 由 LWB 和 GW 于 20210120 开始 共同创作.
-
-## 软件
-
-- [Obsidian](https://obsidian.md)
-
-## Folder Structure 文件结构
+## Folder structure
 
 文件夹 分为 
 - `___Help` 求助 
@@ -37,4 +27,3 @@
 - `Wiki Notes` 已完成的笔记
 	- 笔记内容 只关注一个问题, 一个定义. 
 	- 大小控制在 两页. 超过则考虑拆分
-
